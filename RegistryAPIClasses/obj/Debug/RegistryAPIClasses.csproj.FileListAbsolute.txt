@@ -1,0 +1,6 @@
+C:\Users\sanuu\Desktop\DistributedComputing_AssignmentOne\DC_Assignment\Assignment\RegistryAPIClasses\bin\Debug\RegistryAPIClasses.dll
+C:\Users\sanuu\Desktop\DistributedComputing_AssignmentOne\DC_Assignment\Assignment\RegistryAPIClasses\bin\Debug\RegistryAPIClasses.pdb
+C:\Users\sanuu\Desktop\DistributedComputing_AssignmentOne\DC_Assignment\Assignment\RegistryAPIClasses\obj\Debug\RegistryAPIClasses.csproj.AssemblyReference.cache
+C:\Users\sanuu\Desktop\DistributedComputing_AssignmentOne\DC_Assignment\Assignment\RegistryAPIClasses\obj\Debug\RegistryAPIClasses.csproj.CoreCompileInputs.cache
+C:\Users\sanuu\Desktop\DistributedComputing_AssignmentOne\DC_Assignment\Assignment\RegistryAPIClasses\obj\Debug\RegistryAPIClasses.dll
+C:\Users\sanuu\Desktop\DistributedComputing_AssignmentOne\DC_Assignment\Assignment\RegistryAPIClasses\obj\Debug\RegistryAPIClasses.pdb
