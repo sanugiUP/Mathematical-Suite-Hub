@@ -1,0 +1,7 @@
+This is for maintenance and other developers who will look after your code. Let
+us assume that a new service (e.g., adding four integers service). Provide a
+step-by-step guide on updating the code to the new service. You will be asked
+to do the same in your demonstrations. It is expected that you do not need to
+change your GUI application project when you want to access the new service
+
+

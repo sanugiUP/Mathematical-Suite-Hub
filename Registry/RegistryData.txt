@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ADDThreeNumbers",
+    "description": "Add Three Numbers",
+    "end_point_API": "http://localhost:51352/api/calculator/addthree",
+    "operands": 3,
+    "operandType": "integer"
+  },
+  {
+    "name": "ADDTwoNumbers",
+    "description": "Add Two Numbers",
+    "end_point_API": "http://localhost:51352/api/calculator/addtwo",
+    "operands": 2,
+    "operandType": "integer"
+  },
+  {
+    "name": "MULThreeNumbers",
+    "description": "Multiply Three Numbers",
+    "end_point_API": "http://localhost:51352/api/calculator/multhree",
+    "operands": 3,
+    "operandType": "integer"
+  },
+  {
+    "name": "MULTwoNumbers",
+    "description": "Multiply Two Numbers",
+    "end_point_API": "http://localhost:51352/api/calculator/multwo",
+    "operands": 2,
+    "operandType": "integer"
+  }
+]
